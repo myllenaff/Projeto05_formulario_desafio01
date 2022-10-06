@@ -6,7 +6,7 @@
 
 Stage 03 - Desafio 01 - construído na Jornada Explorer do Rocketseat.
 
-[👉Clique aqui para acessar](https://myllenaff.github.io/projeto05_formulario_desafio01/)
+[👉Clique aqui para acessar](https://myllenaff.github.io/Projeto05_formulario_desafio01/)
 
 ## 💻 Tecnologias:
 
